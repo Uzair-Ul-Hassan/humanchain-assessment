@@ -7,8 +7,8 @@ This is a **Next.js** project using **ShadCN UI** for components and styling.
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Uzair-Ul-Hassan/humanchain-assessment.git
+cd humanchain-assessment
 ```
 
 ### 2. Install Dependencies
